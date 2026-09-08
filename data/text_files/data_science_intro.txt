@@ -1,0 +1,10 @@
+Data science is an interdisciplinary field that combines statistical analysis, machine learning, data visualization, and domain expertise to extract insights and knowledge from structured and unstructured data. It involves the entire data lifecycle, from data collection and cleaning to analysis and interpretation.
+
+    Key features of data science include:
+    - Data collection and preprocessing
+    - Statistical analysis and modeling
+    - Machine learning and predictive analytics
+    - Data visualization and communication
+
+    Data science is widely applied in various industries, including finance, healthcare, marketing, and technology, to drive informed decision-making and innovation.
+    
